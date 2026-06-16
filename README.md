@@ -7,6 +7,7 @@
 
 🎯 **Entry-Level Data Analyst** passionate about turning data into meaningful insights  
 📊 Skilled in Excel, SQL, Python, Tableau, Power BI, and Azure  
+🌍 Languages: 🇬🇧 English | 🇧🇩 Bengali
 📍 Based in the UK  
 
 ---
