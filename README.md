@@ -94,12 +94,11 @@ What am I?
 ## 📊 GitHub Stats
 
 <p align="center">
-  https://github-readme-stats.vercel.app/api?username=JasminK28&show_icons=true&theme=default
+<img src="https://github-readme-stats.vercel.app/api?username=JasminK28&show_icons=true&theme=tokyonight"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JasminK28&layout=compact&theme=tokyonight"/>
 </p>
 
-<p align="center">
-  .com/?user=JasminK28&theme=default" />
-</p>
+ 
 
 ---
 
